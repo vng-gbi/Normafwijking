@@ -10,8 +10,8 @@ let respecConfig = {
   
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-statussen
   specStatus: "IO",
-  publishDate: "2024-09-12",
-  publishVersion: "0.0.1",
+  publishDate: "2025-06-01",
+  publishVersion: "1.2.0",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane maturities
   //previousMaturity: "IO",
@@ -37,7 +37,7 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://vng-gbi.github.io/Normafwijking",
+  github: "https://github.com/vng-gbi/Normafwijking.git",
 
   //  maxTocLevel: 2,
 
